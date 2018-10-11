@@ -1,0 +1,7 @@
+{
+  "name": "backButton",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
